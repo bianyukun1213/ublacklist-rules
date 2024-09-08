@@ -1,0 +1,3 @@
+*://*.zhihu.com/*
+*://geek-docs.com/*
+*://deepinout.com/*
